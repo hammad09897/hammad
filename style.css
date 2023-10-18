@@ -1,0 +1,623 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    /* overflow: hidden; */
+   
+
+}
+body{
+    overflow-x: hidden !important;
+/* overflow: hidden; */
+padding: 0px;
+margin: 0px;
+
+
+}
+
+.links ul{
+
+display: flex;
+font-size: 15px;
+list-style: none;
+gap: 30px;
+padding-left: 20px;
+
+}
+
+.links ul li a{
+
+text-decoration: none;
+color: white;
+text-align: center;
+
+}
+main header{
+
+padding-top:20px ;
+padding-bottom: 20px;
+display: flex;
+font-size: 20px;
+font-family: sans-serif;
+text-align: center;
+color: azure;
+background-color: black;
+background-size: cover;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.icon{
+
+font-size: 15px;
+color: white;
+display: flex;
+list-style: none;
+
+}
+
+ul li a{
+
+padding: 10px 12px ;
+
+}
+
+html{
+    overflow-x:hidden ;
+}
+
+ul li a:hover{
+
+color: black;
+background-color:rgb(204,204,204);
+padding: 17px 12px ;
+
+}
+/* .one{
+background-image:url("./hammad.data.jpg");
+height: 600px;
+background-repeat: no-repeat;
+background-size: cover;
+color: aliceblue;
+text-align: center;
+width: 100% !important;
+} */
+
+.hammad{
+
+font-size: 30px;
+font-family: sans-serif;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 20px;
+letter-spacing: 2px;
+
+}
+
+.ubaid{
+
+font-size: 15px;
+font-family: sans-serif;
+text-align: center;
+font-style: oblique;
+
+color: rgb(130, 125, 125);
+
+}
+
+.shazan{
+
+font-size: 20px;
+font-family: sans-serif;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 100px;
+display: flex;
+justify-content: center;
+
+
+}
+.shazan p{
+
+text-align: justify;
+font-size: 15px;
+width: 788px;
+line-height: 1.5;
+    
+}
+
+.imran{
+
+display: flex !important;
+justify-content: center;
+gap: 85px;
+padding-bottom: 50px;
+font-weight: bold;
+
+}
+
+.imran img{
+
+width: auto;
+height: 171px;
+
+}
+.imran .image p{
+
+text-align: center;
+
+}
+.imran  .image {
+
+display: flex;
+flex-direction: column;
+gap: 20px;
+
+}
+
+.tour{
+
+overflow: hidden;
+/* background-color: #000; */
+width: 100%;
+
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+.tour .mainsep .sept{
+
+display: flex;
+gap: 30px;
+
+}
+.tour .mainsep .sept p{
+
+color: rgb(132, 132, 132) 
+
+}
+.main_tour{
+/* margin-top: 50px; */
+padding-top: 50px;
+background-color: #000;
+
+}
+.tour .mainsep {
+
+width: 63.5%;    
+/* display: flex; */
+/* flex-direction: column; */
+ /* margin: auto; */
+/* position: absolute; */
+
+}
+.tour .mainsep .sept  button{
+
+background-color: #F44336;
+color: #E9FFFF;
+padding: 5px 10px;
+border: none;
+
+}
+
+.tour .mainsep .sept{
+
+background-color:white;
+/* width: 50%; */
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 10px;
+border-bottom: 1px solid #dddd;
+float: right 54px !important;
+/* margin-right: 32px !important; */
+
+}
+
+
+.umair{
+
+padding-top: 30px !important;
+padding-bottom: 30px !important;
+display: flex;
+gap: 25px;
+justify-content: center;
+
+   
+}
+
+.sami{
+
+justify-content: space-between;
+padding-top: 64px !important;
+padding-bottom: 64px !important;
+
+}
+
+.number{
+/* width: 700px; */
+font-size: 30px;
+display: flex;
+text-align: center;
+justify-content: end;
+margin-top: -35px;
+/* margin-left: 18px; */
+margin-right: 18px;
+
+}
+
+
+.glass{
+
+font-size: 20px;
+color: #E9FFFF;
+box-sizing: initial;
+
+}
+
+.hanzala{
+
+font-size: 30px;
+color: #E9FFFF;
+justify-content: center;
+text-align: center;
+padding-top: 85px !important;
+padding-bottom: 85px !important;
+font-family: sans-serif;
+letter-spacing: 2.5px;
+
+}
+
+
+.umairbhai{
+
+font-size: 12px;
+color:black;
+background-color: white;
+width: 250px;
+/* height: 350px;
+display:  flex;
+flex-direction: column;
+justify-content: space-between; */
+}
+
+.content {
+    /* border: 1px solid black; */
+    /* height: 100px; */
+    display: flex;
+    margin: 15px;
+    flex-direction: column;
+    /* font-family: sans-serif; */
+    /* justify-content: space-around; */
+    font-size: 15px;
+    gap: 15px;
+}
+
+/* .umair button {
+    width: fit-content;
+    padding: 5px 7px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+} */
+
+
+.umair button{
+
+width: fit-content;
+padding: 9px 13px;
+border: none;
+font-size: 16px;
+color: white;
+border-radius: 3px;
+background-color: black;
+
+    
+}
+
+
+.umair button:hover{
+
+color: black;
+background-color: rgb(142, 142, 142);
+
+}
+
+
+.content h1{
+
+font-size: 18px;
+
+}
+
+.content .date{
+
+color: rgb(148, 145, 145);
+
+}
+
+.contact{
+
+font-size: 20px;
+color: black;
+text-align: center;
+letter-spacing: 1px;
+margin-top: 80px;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+gap: 30px;
+
+}
+
+
+.contact p{
+
+font-size: 15px;
+font-style: oblique;
+color: rgb(125, 116, 116);
+}
+
+
+.name{
+
+font-size: 20px;
+text-align: right;
+color: black;
+display: block;
+justify-content: left;
+padding: 8px;
+width: 85%;
+gap: 30px;
+display: flex;
+width: 77%;
+
+}
+
+
+.message{
+
+font-size: 20px;
+text-align: right;
+color: black;
+display: block;
+justify-content: left;
+padding: 8px;
+width: 72%;
+border-color: #000;
+}
+
+.name .hello{
+
+width: 100%;
+height: 20px;
+padding: 7px 10px;
+font-size: 18px;
+    
+}
+
+.name .hello2{
+
+width:100%;
+height: 20px;
+padding: 7px 10px;
+font-size: 18px;
+
+}
+
+.message .hello3{
+
+width: 100%;
+height: 20px;
+padding: 7px 10px;
+font-size: 18px;
+
+}
+.icon_main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.submit{
+
+font-size: 30px;
+text-align: right;
+color: black;
+display: block;
+justify-content: left;
+width: 78%;
+border-color: #000;
+    
+}
+
+.submit .hello5{
+
+font-size: 18px;
+/* width: 7%; */
+/* height: 35px; */
+border-color: #000;
+padding: 8px 13px;
+flex-direction: row;
+border: none;
+color: white;
+border-radius: 3px;
+background-color: black;
+
+}
+
+
+.order{
+
+padding-top: 110px;
+
+}
+
+
+.mainhello .hello5:hover{
+
+color: #000;
+background-color: rgb(144, 144, 144);
+
+}
+
+.icons1{
+
+font-size: 20px;
+color: black;
+/* padding-left: 300px; */
+display: flex;
+    gap: 11px;
+
+}
+
+.icons2{
+
+font-size: 20px;
+color: black;
+/* padding-left: 300px; */
+display: flex;
+    gap: 11px;
+       
+}
+
+.icons3{
+
+font-size: 20px;
+color: black;
+/* padding-left: 300px; */
+display: flex;
+    gap: 11px;
+              
+}
+.main_contact_2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 63px;
+}
+.search{
+
+font-size: 25px;
+padding-bottom: 100px;
+text-align: center;
+padding: 40px;
+color: rgb(138, 137, 137);
+
+}
+
+
+.paragraph{
+
+font-size: 15px;
+text-align: center;
+padding-top: 20px !important;
+padding-bottom: 20px !important;
+
+}
+
+.heading{
+
+color: white;
+text-align: center;
+padding-bottom: 50px;
+font-size: 30px;
+font-family: sans-serif;
+text-align: center;
+color: white;
+letter-spacing: 1.5px;
+
+}
+
+.point{
+
+padding-top: 20px;   
+color: white;
+text-align: center;
+font-size: 13px;
+font-family: sans-serif;
+text-align: center;
+color: rgb(130, 125, 125);
+font-style: oblique;
+
+}
+
+@media  (max-width: 858px) {
+    main header{
+        flex-direction: column;
+        gap: 14px;
+    
+    }
+    .imran{
+        flex-direction:column ;
+    }
+    .imran img{
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .umair{
+        flex-direction: column;
+    }
+    .umairbhai{
+        width: 50% !important;
+        margin: auto;
+    }
+    img{
+   width: 100%;
+    }
+    .imran .image{
+        width: 50%;
+        margin: auto;
+    }
+    .main_contact_2{
+        flex-direction: column;
+    gap: 54px;
+    }
+    .icon_main{
+        width: 27% !important;
+    margin: auto;
+    }
+    .button_end{
+        width: 67% !important;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    }
+    .name{
+        width: 100%;
+    }
+    .submit{
+        width: 100%;
+    }
+    .message{
+        width: 96%;
+    }
+    .icon_main p{
+        white-space: nowrap;
+    }
+}
+
+
+@media  (max-width: 475px) {
+    .icon_main{
+        width: 47% !important;
+    }
+    .umairbhai{
+        width: 70% !important;
+    }
+    .imran .image{
+        width: 70% !important;
+    }
+    .shazan p{
+   padding-left: 20px;
+   padding-right: 20px;
+    }
+    .links ul{
+        display: none;
+    }
+    .icon{
+        display: none;
+    }
+}
